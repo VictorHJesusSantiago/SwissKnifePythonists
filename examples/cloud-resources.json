@@ -1,0 +1,14 @@
+[
+  {
+    "provider": "aws",
+    "identifier": "i-012345",
+    "kind": "instance",
+    "tags": {"Owner": "plataforma", "Environment": "dev"}
+  },
+  {
+    "provider": "gcp",
+    "identifier": "api-prod",
+    "kind": "compute-instance",
+    "tags": {"Environment": "prod", "CostCenter": "CC100"}
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "provider": "aws",
+    "resource_id": "i-012345",
+    "service": "EC2",
+    "monthly_cost": 180.5,
+    "utilization": 2.1
+  },
+  {
+    "provider": "azure",
+    "resource_id": "vm-app-01",
+    "service": "Virtual Machines",
+    "monthly_cost": 220,
+    "utilization": 42
+  }
+]
