@@ -1,0 +1,10 @@
+application: portal
+environments:
+  staging:
+    stages:
+      - name: validar
+        command: ["python", "-m", "compileall", "-q", "src"]
+        timeout: 120
+      - name: testar
+        command: ["python", "-m", "pytest", "-q"]
+        timeout: 300

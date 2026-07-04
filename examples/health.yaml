@@ -1,0 +1,10 @@
+targets:
+  - name: site-principal
+    host: example.com
+    port: 443
+    url: https://example.com/
+    timeout: 5
+  - name: dns-cloudflare
+    host: 1.1.1.1
+    port: 53
+    timeout: 3
