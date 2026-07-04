@@ -1,0 +1,8 @@
+{
+  "wait_min": 1,
+  "wait_max": 3,
+  "endpoints": [
+    {"name": "home", "method": "GET", "path": "/", "weight": 5},
+    {"name": "health", "method": "GET", "path": "/health", "weight": 1}
+  ]
+}

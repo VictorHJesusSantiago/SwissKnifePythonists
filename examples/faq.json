@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Como redefinir minha senha?",
+    "keywords": "senha acesso login esqueci",
+    "answer": "Acesse o portal de identidade e selecione Redefinir senha.",
+    "category": "acesso"
+  },
+  {
+    "question": "Como solicitar uma VPN?",
+    "keywords": "vpn remoto casa",
+    "answer": "Abra uma solicitação no catálogo Acesso remoto/VPN.",
+    "category": "rede"
+  }
+]
